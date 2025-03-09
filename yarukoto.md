@@ -163,7 +163,9 @@ baluboは、ライターを中心とした各種クリエイター向けに、�
 
 ### 開発環境
 - ローカルフォルダ: /Users/fumiya.kimiwada/Desktop/mvp-balubo 
-- リポジトリ: git@github.com:FKimi/mvp-balubo.git
+- リポジトリ（SSH）: git@github.com:FKimi/mvp-balubo.git
+- リポジトリ（HTTPS）: https://github.com/FKimi/mvp-balubo.git
+- リポジトリ（GitHub CLI）: gh repo clone FKimi/mvp-balubo
 
 ## 設計方針（初心者向け）
 

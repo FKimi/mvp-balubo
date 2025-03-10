@@ -3114,9 +3114,7 @@ _****_
 + VITE_PUSHER_SCHEME="${PUSHER_SCHEME}"
 + VITE_PUSHER_APP_CLUSTER="${PUSHER_APP_CLUSTER}"
 + 
-+ # Gemini API設定
-+ GEMINI_API_KEY=AIzaSyC7-mAwqtJFAztLcrBnGYdRM83PaqIPKmg 
-```
+
 
 ---
 
@@ -3131,8 +3129,6 @@ _****_
 ```diff
   
   ### AI・解析
-- - Gemini API
-- - API Key：AIzaSyC7-mAwqtJFAztLcrBnGYdRM83PaqIPKmg
 + - Gemini API（APIキーは.envファイルで管理）
 + - OpenGraph情報取得ライブラリ
   
